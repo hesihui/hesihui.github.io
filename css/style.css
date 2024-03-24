@@ -562,7 +562,7 @@ input[type="search"]::-webkit-search-results-decoration {
   flex-direction: row-reverse;
 }
 .profile .profile-content {
-  width: 50%;
+  width: 80%;
   margin: 0 1.5rem 0 0;
 }
 .profile .profile-content .profile-title {
@@ -595,7 +595,7 @@ input[type="search"]::-webkit-search-results-decoration {
   color: #373633;
 }
 .profile .profile-image {
-  width: 50%;
+  width: 25%;
 }
 @media (max-width: 480px) {
   .profile {
